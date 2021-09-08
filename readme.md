@@ -1,1 +1,1 @@
-{\rtf1}
+Oblig 1 DAT158 ML part
