@@ -22,6 +22,7 @@ dependencies:
 - conda-forge::category_encoders
 - conda-forge::shap
 - hyperopt
+- xgboost
 - pip:
   - pip >= 19.0
   - kaggle
