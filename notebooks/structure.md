@@ -21,18 +21,13 @@
     4.3 [Random Forest Regressor](#rfg) <br/>
     4.4 [XGBoost Regressor](#xgb) <pre>
 
-5. [Fine Tuning](#tuning) <br/>
-    5.1 [Linear Regression](#linreg-tune) <br/>
-    5.2 [Decision Tree Regression](#dtreg-tune) <br/>
-    5.3 [Random Forest Regressor](#rfg-tune) <br/>
-    5.4 [XGBoost Regressor](#xgb-tune) <pre>
+5. [Comparison/Selection](#presentation)<br/>
+    5.1 [Comparison](#compare) <br/>
+    5.2 [Selected Model](#selected) <br/>
+    5.3 [Fine Tuning](#tuning) <pre>
 
-6. [Comparison/Selection](#presentation)<br/>
-    6.1 [Comparison](#compare) <br/>
-    6.2 [Selected Model](#selected) <pre>
+6. [Export](#export) <br/>
+    6.1 [Export as CSV](#csv) <br/>
+    6.2 [Write model to disk](#writedisk) <pre>
 
-7. [Export](#export) <br/>
-    7.1 [Export as CSV](#csv) <br/>
-    7.2 [Write model to disk](#writedisk) <pre>
-
-8. [Sources and Credits](#creds)
+7. [Sources and Credits](#creds)
